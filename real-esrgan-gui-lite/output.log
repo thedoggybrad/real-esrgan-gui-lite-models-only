@@ -1,0 +1,55 @@
+Using executable: C:\Users\Adrien\Desktop\real-ersgan-gui\realesrgan-ncnn-vulkan.exe
+[0 NVIDIA GeForce GT 1030]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce GT 1030]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce GT 1030]  fp16-p/s/a=1/1/0  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce GT 1030]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+0.00%
+2.08%
+4.17%
+6.25%
+8.33%
+10.42%
+12.50%
+14.58%
+16.67%
+18.75%
+20.83%
+22.92%
+25.00%
+27.08%
+29.17%
+31.25%
+33.33%
+35.42%
+37.50%
+39.58%
+41.67%
+43.75%
+45.83%
+47.92%
+50.00%
+52.08%
+54.17%
+56.25%
+58.33%
+60.42%
+62.50%
+64.58%
+66.67%
+68.75%
+70.83%
+72.92%
+75.00%
+77.08%
+79.17%
+81.25%
+83.33%
+85.42%
+87.50%
+89.58%
+91.67%
+93.75%
+95.83%
+97.92%
+C:\Users\Adrien\Desktop\PIC.jpg -> C:\Users\Adrien\AppData\Local\Temp\tmpysudlfws.png done
+Task #0 completed in 16509ms.
