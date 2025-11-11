@@ -51,6 +51,23 @@ In addition to the features supported by Real-ESRGAN-ncnn-vulkan, Real-ESRGAN GU
     * Simplified and traditional Chinese and English are currently supported.
     * Uses `locale.getdefaultlocale` for language detection.
     * Fallback to English by default if translated text is missing.
+ 
+
+## Sample
+| Upscaling Model | Image |
+| --- | --- |
+| **Original (Base Image)** | ![National_Museum_Philippines_interior_2022](https://res.cloudinary.com/dceum4nes/image/upload/v1762832064/REALESRGAN%20LITE/National_Museum_Philippines_interior_2022_lfw0s3.jpg) |
+| **4xLSDIRCompactC3 x4** |  |
+| **RealESRGAN_General_WDN_x4_v3 x4** | |
+| **RealESRGAN_General_x4_v3 x4** |  |
+| **digital-art-4x x4** |  |
+| **realesr-animevideov3-x2 x4** | |
+| **realesr-animevideov3-x3 x4** |  |
+| **realesr-animevideov3-x4 x4** |  |
+| **upscayl-lite-4x x4** |  |
+
+
+
 
 ## Contributors
 [![Contributors](https://contrib.rocks/image?repo=TransparentLC/realesrgan-gui)](https://github.com/TransparentLC/realesrgan-gui/graphs/contributors)
