@@ -10,6 +10,8 @@ A cross-platform GUI for image upscaler [Real-ESRGAN](https://github.com/xinntao
 ## Introduction
 
 This application uses Real-ESRGAN's portable executable file ([Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)) to upscale images with extremely high quality. It is written in Python and provides an user-friendly GUI with Tkinter. 
+<br><br>
+This specific configuration of Real-ESRGAN was created because my NVIDIA GeForce GT1030 4GB SDDR4 cannot run the more heavy upscaling models.
 
 Available Models:
 * 4xLSDIRCompactC3
