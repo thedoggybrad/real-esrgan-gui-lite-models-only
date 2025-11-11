@@ -22,7 +22,10 @@ Available Models:
 * upscayl-lite-4x
 
 Quick Start：
-* ![Windows 10+](https://github.com/thedoggybrad/real-ersgan-gui-lite-models-only/releases/download/1.0/real-ersgan-gui-lite.zip) Download the latest `real-ersgan-gui-lite.zip` from Release, extract the archive then launch `realesrgan-gui.exe`.
+* ![Windows 10+](https://camo.githubusercontent.com/1b992ebcd3880133edf721523ba59a866b0b8c270ab7a768a49b49b7b73277f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302b2d3036623f6c6f676f3d77696e646f7773) Download the latest `real-ersgan-gui-lite.zip` from Release, extract the archive then launch `realesrgan-gui.exe`.
+
+## Download Link
+[Click here to download](https://github.com/thedoggybrad/real-ersgan-gui-lite-models-only/releases/download/1.0/real-ersgan-gui-lite.zip)
 
 ## Features
 
@@ -46,10 +49,6 @@ In addition to the features supported by Real-ESRGAN-ncnn-vulkan, Real-ESRGAN GU
     * Simplified and traditional Chinese and English are currently supported.
     * Uses `locale.getdefaultlocale` for language detection.
     * Fallback to English by default if translated text is missing.
-    * You can add or improve translations by editing [`i18n.ini`](https://github.com/TransparentLC/realesrgan-gui/blob/master/i18n.ini). Contributions are very welcome!
-        * After adding your language to [`i18n.ini`](https://github.com/TransparentLC/realesrgan-gui/blob/master/i18n.ini), run the [`generate_locales_map.py`](https://github.com/TransparentLC/realesrgan-gui/blob/master/generate_locales_map.py) file and copy the `locales_map` variable from the output until the end. Then, replace the variable in [`i18n.py`](https://github.com/TransparentLC/realesrgan-gui/blob/master/i18n.py) with the one you copied. If you encounter any issues running [`generate_locales_map.py`](https://github.com/TransparentLC/realesrgan-gui/blob/master/generate_locales_map.py), try running `pip install -r requirements.txt` in the command line to install the necessary dependencies, and then try again.
-        * If you don't want to deal with [`generate_locales_map.py`](https://github.com/TransparentLC/realesrgan-gui/blob/master/generate_locales_map.py), you can directly add your language code and the visible name of your language to the `locales_map` variable in the [`i18n.py`](https://github.com/TransparentLC/realesrgan-gui/blob/master/i18n.py) file.
-
 
 ## Contributors
 [![Contributors](https://contrib.rocks/image?repo=TransparentLC/realesrgan-gui)](https://github.com/TransparentLC/realesrgan-gui/graphs/contributors)
