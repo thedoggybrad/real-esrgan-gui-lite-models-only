@@ -22,13 +22,13 @@ Available Models:
 * upscayl-lite-4x
 
 Quick Start：
-* ![Windows 10+](https://camo.githubusercontent.com/1b992ebcd3880133edf721523ba59a866b0b8c270ab7a768a49b49b7b73277f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302b2d3036623f6c6f676f3d77696e646f7773) Download the latest `real-ersgan-gui-lite.zip` from Release, extract the archive then launch `realesrgan-gui.exe`.
+* ![Windows 10+](https://camo.githubusercontent.com/1b992ebcd3880133edf721523ba59a866b0b8c270ab7a768a49b49b7b73277f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302b2d3036623f6c6f676f3d77696e646f7773) Download the latest `real-ersgan-gui-lite.zip` from Release, extract the archive then launch `realesrgan-gui.exe`.<br>
+N.B. Included models are only tested to work on an NVIDIA GeForce GT1030 4GB SDDR4 but should work on a better graphics card. 
 
 ## Download Link
 [Click here to download](https://github.com/thedoggybrad/real-ersgan-gui-lite-models-only/releases/download/1.0/real-ersgan-gui-lite.zip)
 
 ## Features
-
 In addition to the features supported by Real-ESRGAN-ncnn-vulkan, Real-ESRGAN GUI also supports these additional features:
 
 * Upscale to arbitrary size
