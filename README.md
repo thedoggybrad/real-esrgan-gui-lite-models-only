@@ -48,7 +48,6 @@ In addition to the features supported by Real-ESRGAN-ncnn-vulkan, Real-ESRGAN GU
 * Dark theme
     * Choose to use light or dark theme according to system settings.
     * The detection is done using [darkdetect](https://github.com/albertosottile/darkdetect).
-    * Not available on macOS?
 * Multi-language support
     * Simplified and traditional Chinese and English are currently supported.
     * Uses `locale.getdefaultlocale` for language detection.
