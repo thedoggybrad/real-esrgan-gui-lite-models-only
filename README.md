@@ -24,15 +24,17 @@ Available Models:
 * upscayl-lite-4x
 
 Quick Start：
-* ![Windows 10+](https://camo.githubusercontent.com/1b992ebcd3880133edf721523ba59a866b0b8c270ab7a768a49b49b7b73277f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302b2d3036623f6c6f676f3d77696e646f7773) Download the latest `real-ersgan-gui-lite.zip` from Release, extract the archive then launch `realesrgan-gui.exe`.<br>
+* ![Windows 10+](https://camo.githubusercontent.com/1b992ebcd3880133edf721523ba59a866b0b8c270ab7a768a49b49b7b73277f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302b2d3036623f6c6f676f3d77696e646f7773) Download the latest `real-ersgan-gui-lite.zip` from Release Downloads, extract the archive then launch `realesrgan-gui.exe`.<br>
+N.B. Included models are only tested to work on an NVIDIA GeForce GT1030 4GB SDDR4 but should work on a better graphics card.
+* ![Windows 10+](https://camo.githubusercontent.com/1b992ebcd3880133edf721523ba59a866b0b8c270ab7a768a49b49b7b73277f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302b2d3036623f6c6f676f3d77696e646f7773) Download the latest `real-esrgan-gui-lite-setup.exe` from Release Downloads then install it. After that, launch the software from your start menu or desktop (if you checked the option to create a shortcut in your desktop).<br>
 N.B. Included models are only tested to work on an NVIDIA GeForce GT1030 4GB SDDR4 but should work on a better graphics card. 
 
-## Download Link
-[Click here to download](https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only/releases/download/1.0/real-esrgan-gui-lite.zip)
+## Release Downloads
+[Download Setup](https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only/releases/download/1.0/real-esrgan-gui-lite-setup.exe)
+[Download Portable](https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only/releases/download/1.0/real-esrgan-gui-lite.zip)
 
 ## Features
 In addition to the features supported by Real-ESRGAN-ncnn-vulkan, Real-ESRGAN GUI also supports these additional features:
-
 * Upscale to arbitrary size
     * Real-ESRGAN-ncnn-vulkan can only upscale the input image at a fixed 2-4x ratio (depending on the model chosen).
     * Real-ESRGAN GUI uses Real-ESRGAN-ncnn-vulkan to upscale the input image in multiple times, then downsamples the output image to the desired size with general image scaling algorithms.
