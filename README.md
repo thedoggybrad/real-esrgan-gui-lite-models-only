@@ -28,7 +28,7 @@ Quick Start：
 N.B. Included models are only tested to work on an NVIDIA GeForce GT1030 4GB SDDR4 but should work on a better graphics card. 
 
 ## Download Link
-[Click here to download](https://github.com/thedoggybrad/real-ersgan-gui-lite-models-only/releases/download/1.0/real-ersgan-gui-lite.zip)
+[Click here to download](https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only/releases/download/1.0/real-ersgan-gui-lite.zip)
 
 ## Features
 In addition to the features supported by Real-ESRGAN-ncnn-vulkan, Real-ESRGAN GUI also supports these additional features:
